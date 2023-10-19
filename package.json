@@ -1,0 +1,19 @@
+{
+  "name": "noter-app",
+  "version": "1.0.0",
+  "description": "simple express REST application",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "REST",
+    "node",
+    "express"
+  ],
+  "author": "Nagaraj Badiger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

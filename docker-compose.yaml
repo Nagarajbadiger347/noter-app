@@ -1,0 +1,6 @@
+version: '3'
+services:
+  noter-app:
+    image: nagarajb04/noter-app:v1
+    ports:
+      - "3000:3000"
